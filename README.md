@@ -7,7 +7,7 @@ CocoaPods specs for Detroit Labs code.
 
 Add these two lines to the top of your project's Podfile.
 
-```objc
+```rb
 source 'git://git@github.com:detroit-labs/detroit-labs-specs.git'
 source 'git://git@github.com:CocoaPods/Specs.git'
 ```
