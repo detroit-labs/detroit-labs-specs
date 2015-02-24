@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.license          = 'COMMERCIAL'
   s.authors          = { "Chris Trevarthen" => "ctrevarthen@detroitlabs.com",
                          "Nathan Walczak" => "nate.walczak@detroitlabs.com" }
-  s.source           = { :git => "https://github.com/detroit-labs/dlr-app-store-ratings-ios.git", :tag => s.version.to_s }
+  s.source           = { :git => "git@github.com:detroit-labs/dlr-app-store-ratings-ios.git", :tag => s.version.to_s }
   s.social_media_url = 'https://twitter.com/detroitlabs'
 
   s.platform     = :ios
